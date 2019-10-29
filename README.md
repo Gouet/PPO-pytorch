@@ -2,7 +2,7 @@
 
 # Youtube Video
 
-** Assault-v0 **
+**Assault-v0**
 https://www.youtube.com/watch?v=vStqt9dnXnU
 GYM Env : https://gym.openai.com/envs/Assault-v0/
 
