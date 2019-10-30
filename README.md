@@ -14,6 +14,12 @@ https://www.youtube.com/watch?v=I2jyOfx4PBg
 
 GYM Env : https://gym.openai.com/envs/Enduro-v0/
 
+**Atlantis**
+
+https://www.youtube.com/watch?v=SA-5eIP0Qm8&t=2s
+
+GYM Env : https://gym.openai.com/envs/Atlantis-v0/
+
 **Launch:**
 
 python train.py --scenario Assault-v0
