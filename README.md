@@ -8,6 +8,12 @@ https://www.youtube.com/watch?v=vStqt9dnXnU
 
 GYM Env : https://gym.openai.com/envs/Assault-v0/
 
+**Enduro-v0**
+
+https://www.youtube.com/watch?v=I2jyOfx4PBg
+
+GYM Env : https://gym.openai.com/envs/Enduro-v0/
+
 **Launch:**
 
 python train.py --scenario Assault-v0
